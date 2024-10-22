@@ -144,7 +144,6 @@ const Review_Form = () => {
                                     <p><strong>Email:</strong> {feedback.email}</p>
                                     <p><strong>Comment:</strong> {feedback.comment}</p>
                                     <p><strong>Rating:</strong> {feedback.rating} Stars</p>
-                                    <p><small><em>Date Submitted:</em> {feedback.date}</small></p>
                                     <hr />
                                 </div>
                             ))
